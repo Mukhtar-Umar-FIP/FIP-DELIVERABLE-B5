@@ -1,0 +1,121 @@
+Order ID, Order Date,customer name,City,Product ,Qty,Unit Price,Payment Method
+ORD1091,2024-01-10,,Ibadan,Rice 50kg,4,N78000,Cash
+ORD1027,2024-06-04,Aisha Lawal,,Garri 10kg,3,"₦12,000",cash
+ORD1103,2024-04-12,Zainab Okafor,port harcourt,garri 10kg,7,,transfer
+ORD1015,03/04/2024,Blessing Okafor,Lagos,rice 50kg,10,78000,pos
+ORD1051,2024-04-07,Ngozi Lawal,Abj,Beans 5kg,10,"₦11,500",POS
+ORD1047,12/01/2024,Kemi Balogun,,Veg Oil 5L,7,"14,500.00",Bank Transfer
+ORD1095,10/04/2024,Zainab Eze,lagos,Indomie Carton,7,N9800,Transfer
+ORD1076,January 21 2024,Halima Eze,,Vegetable Oil 5L,3,"₦14,500",Bank Transfer
+ORD1098,January 12 2024,Halima Adeyemi,P/H,RICE 50KG,1,"₦78,000",Transfer
+ORD1055,2024-05-14,  MUSA BALOGUN  ,Abj,Vegetable Oil 5L,10,"14,500.00",Bank Transfer
+ORD1059,14/03/2024,Musa Bello,Kano,rice 50kg,5,"₦78,000",Pos 
+ORD1005,2024-04-26,Emeka Eze,Ibadan,Beans 5kg,4,11500,pos
+ORD1010,2024-05-07,Emeka Okonkwo,ABUJA,vegetable oil 5l,9,14500,CASH
+ORD1092,14/04/2024,Zainab Bello,abuja,Gari 10kg,5,12000,Cash
+ORD1012,2024-02-16,Aisha Lawal,Abuja,Beans 5kg,7,"₦11,500",trf
+ORD1043,2024-01-12,Blessing Adeyemi,Kano,garri 10kg,8,12000,Pos 
+ORD1104,2024-02-03,ibrahim bello,ibadan,Gari 10kg,9,12000,Bank Transfer
+ORD1089,29/02/2024,aisha ibrahim,PH,Beans 5kg,5,11500,Cash
+ORD1037,2024-02-26,uche abubakar,Lagos,beans 5kg,1,11500,Bank Transfer
+ORD1025,2024-02-24,zainab adeyemi,abuja,Indomie ctn,6,9800,Transfer
+ORD1050,2024-05-14,segun usman,ibadan,beans 5kg,2,"11,500.00",POS
+ORD1105,26/06/2024,Aisha Ibrahim,abuja,Indomie Carton,8,9800,CASH
+ORD1096,27/04/2024,Emeka Balogun,lagos,Rice 50kg,1,"₦78,000",Transfer
+ORD1068,08/02/2024,  NGOZI IBRAHIM ,Port Harcourt,Indomie ctn,8,9800,Cash
+ORD1080,2024-01-09,ngozi okonkwo,Port Harcourt,RICE 50KG,4,,trf
+ORD1104,2024-02-03,ibrahim bello,ibadan,Gari 10kg,9,12000,Bank Transfer
+ORD1061,June 13 2024,Halima Balogun,P/H,Beans 5kg,9,,transfer
+ORD1020,June 3 2024,,kano,RICE 50KG,6,78000,cash
+ORD1084,2024-02-20,uche balogun,Kano,Indomie Carton,7,9800,Cash
+ORD1112,,Halima Adeyemi,Abuja,RICE 50KG,5,78000,Pos 
+ORD1090,2024-01-20,  ZAINAB BALOGUN ,Ibadan,vegetable oil 5l,10,14500,Cash
+ORD1035,22/06/2024,Zainab Okonkwo,Abj,sugar 1kg,-3,"₦1,800",Bank Transfer
+ORD1102,2024-04-22,Ibrahim Eze,Port Harcourt,Indomie ctn,8,"₦9,800",transfer
+ORD1038,March 2 2024,blessing okafor,Kano,indomie carton,1,9800,pos
+ORD1013,16/06/2024,,Kano,garri 10kg,9,12000,Transfer
+ORD1016,May 4 2024,fatima lawal,ibadan,sugar 1kg,,1800,CASH
+ORD1083,18/03/2024,Chidi Bello,port harcourt,Veg Oil 5L,4,14500,Pos 
+ORD1070,2024-02-19,Tunde Usman,lagos,Rice 50kg,1,"₦78,000",transfer
+ORD1074,2024-03-16,Ngozi Abubakar,P/H,Veg Oil 5L,3,"14,500.00",transfer
+ORD1033,2024-04-03,Ngozi Eze,P/H,sugar 1kg,1,1800,Bank Transfer
+ORD1109,17/05/2024,Blessing Ibrahim,ibadan,Gari 10kg,6,12000,Pos 
+ORD1081,2024-06-06,Tunde Eze,KANO,Sugar 1Kg,6,N1800,pos
+ORD1063,May 8 2024,ibrahim okafor,ABUJA,rice 50kg,8,N78000,transfer
+ORD1093,11/04/2024,Halima Ibrahim,Ibadan,Indomie ctn,9,9800,CASH
+ORD1072,April 18 2024,  MUSA ABUBAKAR ,port harcourt,indomie carton,1,"₦9,800",Transfer
+ORD1087,06/03/2024,Tunde Balogun,Kano,sugar 1kg,4,1800,POS
+ORD1073,2024-05-09,Ngozi Bello,P/H,Sugar 1kg,5,"1,800.00",POS
+ORD1028,03/05/2024,Fatima Usman,Lagos,Gari 10kg,1,12000,pos
+ORD1044,2024-03-20,fatima adeyemi,Ibadan,Sugar 1kg,6,1800,transfer
+ORD1036,15/01/2024,kemi eze,port harcourt,garri 10kg,2,12000,Cash
+ORD1041,2024-02-30,Yusuf Okonkwo,port harcourt,beans 5kg,4,"11,500.00",CASH
+ORD1018,07/03/2024,Tunde Ibrahim,,RICE 50KG,4,,Bank Transfer
+ORD1106,2024-03-05,Musa Eze,Abj,beans 5kg,3,11500,transfer
+ORD1046,May 15 2024,tunde adeyemi,Kano,Rice 50 kg,6,"78,000.00",transfer
+ORD1017,2024-06-26,Kemi Abubakar,Kano,rice 50kg,9,78000,Bank Transfer
+ORD1055,2024-05-14,musa balogun,Abj,Vegetable Oil 5L,10,"14,500.00",Bank Transfer
+ORD1045,2024-01-02,  IBRAHIM ADEYEMI ,Ibadan,Sugar 1kg,7,"₦1,800",Transfer
+ORD1048,05/01/2024,Uche Usman,Ibadan,Vegetable Oil 5L,1,14500,Pos 
+ORD1106,2024-03-05,Musa Eze,Abj,beans 5kg,3,11500,transfer
+ORD1111,2024-02-26,Kemi Bello,KANO,BEANS 5KG,7,"₦11,500",Pos 
+ORD1101,20/05/2024,Musa Okonkwo,kano,BEANS 5KG,-7,11500,POS
+ORD1003,2024-02-04,aisha adeyemi,port harcourt,Gari 10kg,2,"₦12,000",Bank Transfer
+ORD1042,09/06/2024,aisha okafor,kano,indomie carton,3,9800,Transfer
+ORD1030,March 7 2024,Ngozi Usman,Ibadan,indomie carton,3,"₦9,800",Transfer
+ORD1034,February 28 2024,yusuf ibrahim,Kano,Garri 10kg,5,12000,CASH
+ORD1099,26/02/2024,Kemi Okafor,Ibadan,Rice 50 kg,3,"₦78,000",Cash
+ORD1029,2024-01-17,Yusuf Lawal,,rice 50kg,5,"₦78,000",Bank Transfer
+ORD1082,2024-02-29,segun ibrahim,ibadan,Rice 50 kg,5,N78000,
+ORD1058,2024-01-17,,Lagos ,Vegetable Oil 5L,6,N14500,pos
+ORD1011,June 23 2024,Tunde Okonkwo,Ibadan,Indomie Carton,2,9800,POS
+ORD1060,2024-06-10,Uche Okonkwo,KANO,Veg Oil 5L,4,"14,500.00",Cash
+ORD1056,2024-05-04,  KEMI EZE ,lagos,Sugar 1kg,8,"₦1,800",Transfer
+ORD1049,2024-06-09,Zainab Lawal,port harcourt,Rice 50 kg,5,78000,cash
+ORD1110,2024-04-23,Fatima Eze,Abuja,garri 10kg,9,12000,trf
+ORD1107,2024-03-22,Tunde Balogun,Ibadan,Vegetable Oil 5L,7,,pos
+ORD1062,2024-06-16,Tunde Abubakar,KANO,Indomie Carton,5,"₦9,800",Transfer
+ORD1007,20/01/2024,Emeka Bello,PH,vegetable oil 5l,6,"₦14,500",trf
+ORD1039,08/05/2024,Yusuf Adeyemi,,beans 5kg,1,N11500,Cash
+ORD1009,2024-04-28,segun eze,Port Harcourt,sugar 1kg,1,1800,
+ORD1040,18/02/2024,Kemi Usman,lagos,Rice 50 kg,2,"₦78,000",Transfer
+ORD1066,2024-02-25,Ibrahim Usman,abuja,sugar 1kg,7,"₦1,800",Transfer
+ORD1023,February 13 2024,Kemi Ibrahim,Port Harcourt,Indomie Carton,10,N9800,CASH
+ORD1097,2024-02-13,Blessing Eze,ibadan,rice 50kg,9,78000,cash
+ORD1054,2024-01-05,Tunde Ibrahim,Abuja,Gari 10kg,8,N12000,Transfer
+ORD1086,,  KEMI LAWAL ,port harcourt,Indomie ctn,9,"9,800.00",cash
+ORD1088,2024-01-17,  SEGUN BALOGUN ,Kano,Veg Oil 5L,9,14500,cash
+ORD1065,2024-05-14,Kemi Okonkwo,LAGOS,vegetable oil 5l,1,"₦14,500",trf
+ORD1082,2024-02-29,  SEGUN IBRAHIM  ,ibadan,Rice 50 kg,5,N78000,
+ORD1008,01/05/2024,Zainab Ibrahim,Lagos,Indomie Carton,5,"₦9,800",transfer
+ORD1002,16/01/2024,Ngozi Ibrahim,Lagos,Indomie Carton,10,,trf
+ORD1034,February 28 2024,yusuf ibrahim,Kano,Garri 10kg,5,12000,CASH
+ORD1053,15/03/2024,Kemi Adeyemi,,beans 5kg,8,"₦11,500",cash
+ORD1019,12/04/2024,Blessing Adeyemi,abuja,Sugar 1kg,9,"₦1,800",
+ORD1026,18/06/2024,Segun Eze,Lagos ,vegetable oil 5l,9,14500,CASH
+ORD1085,April 19 2024,  YUSUF EZE ,Ibadan,indomie carton,10,9800,cash
+ORD1071,01/03/2024,Ibrahim Adeyemi,Kano,sugar 1kg,5,1800,POS
+ORD1079,May 18 2024,  AISHA LAWAL ,lagos,indomie carton,6,"9,800.00",transfer
+ORD1002,16/01/2024,Ngozi Ibrahim,Lagos,Indomie Carton,10,,trf
+ORD1014,January 18 2024,halima okonkwo, Lagos ,Indomie Carton,2,9800,Cash
+ORD1100,2024-02-08,Chidi Okonkwo,Ibadan,Indomie Carton,9,"9,800.00",Cash
+ORD1108,2024-03-08,  SEGUN OKONKWO ,KANO,Beans 5kg,6,N11500,transfer
+ORD1021,June 8 2024,  NGOZI EZE ,Port Harcourt,vegetable oil 5l,6,,cash
+ORD1031,24/02/2024,Musa Adeyemi,Kano,Indomie Carton,6,9800,CASH
+ORD1024,2024-05-20,  HALIMA EZE ,Ibadan,Gari 10kg,2,"₦12,000",CASH
+ORD1052,2024-06-26,Chidi Eze,Ibadan,Rice 50kg,-8,78000,pos
+ORD1004,2024-02-18,Musa Balogun,Abuja,BEANS 5KG,1,"₦11,500",transfer
+ORD1069,14/06/2024,Ngozi Balogun,,RICE 50KG,9,"₦78,000",cash
+ORD1008,01/05/2024,Zainab Ibrahim,Lagos,Indomie Carton,5,"₦9,800",transfer
+ORD1006,14/03/2024,Segun Eze,Port Harcourt,Garri 10kg,9,"₦12,000",Pos 
+ORD1001,2024-05-17,emeka bello,Abuja,Sugar 1Kg,4,1800,Transfer
+ORD1022,2024-02-21,Segun Okonkwo,lagos,beans 5kg,6,11500,Transfer
+ORD1032,2024-05-04,,abuja,Indomie Carton,7,N9800,Transfer
+ORD1064,2024-02-14,  YUSUF ADEYEMI ,Abuja,indomie carton,4,9800,trf
+ORD1094,April 16 2024,Emeka Abubakar,kano,Indomie ctn,10,"9,800.00",Transfer
+ORD1067,May 1 2024,Chidi Bello, Lagos ,Sugar 1kg,2,1800,Bank Transfer
+ORD1078,01/02/2024,Fatima Okonkwo,lagos,sugar 1kg,two,"1,800.00",pos
+ORD1057,31/01/2024,Emeka Eze,Abuja,sugar 1kg,6,"1,800.00",cash
+ORD1075,2024-01-14,Blessing Okafor,,Indomie Carton,7,9800,Cash
+ORD1083,18/03/2024,Chidi Bello,port harcourt,Veg Oil 5L,4,14500,Pos 
+ORD1077,06/04/2024,Aisha Abubakar,PH,beans 5kg,3,11500,cash

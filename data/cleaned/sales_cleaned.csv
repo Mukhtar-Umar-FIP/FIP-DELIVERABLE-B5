@@ -1,0 +1,105 @@
+order_id,order_date,customer_name,city,product,quantity,unit_price,total_amount,payment_method
+ORD1045,2024-01-02,Ibrahim Adeyemi,Ibadan,Sugar 1kg,7,1800.0,12600.0,Bank Transfer
+ORD1048,2024-01-05,Uche Usman,Ibadan,Vegetable Oil 5L,1,14500.0,14500.0,POS
+ORD1054,2024-01-05,Tunde Ibrahim,Abuja,Garri 10kg,8,12000.0,96000.0,Bank Transfer
+ORD1080,2024-01-09,Ngozi Okonkwo,Port Harcourt,Rice 50kg,4,78000.0,312000.0,Bank Transfer
+ORD1091,2024-01-10,Unknown,Ibadan,Rice 50kg,4,78000.0,312000.0,Cash
+ORD1043,2024-01-12,Blessing Adeyemi,Kano,Garri 10kg,8,12000.0,96000.0,POS
+ORD1047,2024-01-12,Kemi Balogun,Unknown,Vegetable Oil 5L,7,14500.0,101500.0,Bank Transfer
+ORD1098,2024-01-12,Halima Adeyemi,Port Harcourt,Rice 50kg,1,78000.0,78000.0,Bank Transfer
+ORD1075,2024-01-14,Blessing Okafor,Unknown,Indomie Carton,7,9800.0,68600.0,Cash
+ORD1036,2024-01-15,Kemi Eze,Port Harcourt,Garri 10kg,2,12000.0,24000.0,Cash
+ORD1002,2024-01-16,Ngozi Ibrahim,Lagos,Indomie Carton,10,9800.0,98000.0,Bank Transfer
+ORD1029,2024-01-17,Yusuf Lawal,Unknown,Rice 50kg,5,78000.0,390000.0,Bank Transfer
+ORD1058,2024-01-17,Unknown,Lagos,Vegetable Oil 5L,6,14500.0,87000.0,POS
+ORD1088,2024-01-17,Segun Balogun,Kano,Vegetable Oil 5L,9,14500.0,130500.0,Cash
+ORD1014,2024-01-18,Halima Okonkwo,Lagos,Indomie Carton,2,9800.0,19600.0,Cash
+ORD1007,2024-01-20,Emeka Bello,Port Harcourt,Vegetable Oil 5L,6,14500.0,87000.0,Bank Transfer
+ORD1090,2024-01-20,Zainab Balogun,Ibadan,Vegetable Oil 5L,10,14500.0,145000.0,Cash
+ORD1076,2024-01-21,Halima Eze,Unknown,Vegetable Oil 5L,3,14500.0,43500.0,Bank Transfer
+ORD1057,2024-01-31,Emeka Eze,Abuja,Sugar 1kg,6,1800.0,10800.0,Cash
+ORD1104,2024-02-03,Ibrahim Bello,Ibadan,Garri 10kg,9,12000.0,108000.0,Bank Transfer
+ORD1003,2024-02-04,Aisha Adeyemi,Port Harcourt,Garri 10kg,2,12000.0,24000.0,Bank Transfer
+ORD1068,2024-02-08,Ngozi Ibrahim,Port Harcourt,Indomie Carton,8,9800.0,78400.0,Cash
+ORD1100,2024-02-08,Chidi Okonkwo,Ibadan,Indomie Carton,9,9800.0,88200.0,Cash
+ORD1023,2024-02-13,Kemi Ibrahim,Port Harcourt,Indomie Carton,10,9800.0,98000.0,Cash
+ORD1097,2024-02-13,Blessing Eze,Ibadan,Rice 50kg,9,78000.0,702000.0,Cash
+ORD1064,2024-02-14,Yusuf Adeyemi,Abuja,Indomie Carton,4,9800.0,39200.0,Bank Transfer
+ORD1012,2024-02-16,Aisha Lawal,Abuja,Beans 5kg,7,11500.0,80500.0,Bank Transfer
+ORD1004,2024-02-18,Musa Balogun,Abuja,Beans 5kg,1,11500.0,11500.0,Bank Transfer
+ORD1040,2024-02-18,Kemi Usman,Lagos,Rice 50kg,2,78000.0,156000.0,Bank Transfer
+ORD1070,2024-02-19,Tunde Usman,Lagos,Rice 50kg,1,78000.0,78000.0,Bank Transfer
+ORD1084,2024-02-20,Uche Balogun,Kano,Indomie Carton,7,9800.0,68600.0,Cash
+ORD1022,2024-02-21,Segun Okonkwo,Lagos,Beans 5kg,6,11500.0,69000.0,Bank Transfer
+ORD1025,2024-02-24,Zainab Adeyemi,Abuja,Indomie Carton,6,9800.0,58800.0,Bank Transfer
+ORD1031,2024-02-24,Musa Adeyemi,Kano,Indomie Carton,6,9800.0,58800.0,Cash
+ORD1066,2024-02-25,Ibrahim Usman,Abuja,Sugar 1kg,7,1800.0,12600.0,Bank Transfer
+ORD1037,2024-02-26,Uche Abubakar,Lagos,Beans 5kg,1,11500.0,11500.0,Bank Transfer
+ORD1099,2024-02-26,Kemi Okafor,Ibadan,Rice 50kg,3,78000.0,234000.0,Cash
+ORD1111,2024-02-26,Kemi Bello,Kano,Beans 5kg,7,11500.0,80500.0,POS
+ORD1034,2024-02-28,Yusuf Ibrahim,Kano,Garri 10kg,5,12000.0,60000.0,Cash
+ORD1082,2024-02-29,Segun Ibrahim,Ibadan,Rice 50kg,5,78000.0,390000.0,Unknown
+ORD1089,2024-02-29,Aisha Ibrahim,Port Harcourt,Beans 5kg,5,11500.0,57500.0,Cash
+ORD1071,2024-03-01,Ibrahim Adeyemi,Kano,Sugar 1kg,5,1800.0,9000.0,POS
+ORD1038,2024-03-02,Blessing Okafor,Kano,Indomie Carton,1,9800.0,9800.0,POS
+ORD1106,2024-03-05,Musa Eze,Abuja,Beans 5kg,3,11500.0,34500.0,Bank Transfer
+ORD1087,2024-03-06,Tunde Balogun,Kano,Sugar 1kg,4,1800.0,7200.0,POS
+ORD1018,2024-03-07,Tunde Ibrahim,Unknown,Rice 50kg,4,78000.0,312000.0,Bank Transfer
+ORD1030,2024-03-07,Ngozi Usman,Ibadan,Indomie Carton,3,9800.0,29400.0,Bank Transfer
+ORD1108,2024-03-08,Segun Okonkwo,Kano,Beans 5kg,6,11500.0,69000.0,Bank Transfer
+ORD1006,2024-03-14,Segun Eze,Port Harcourt,Garri 10kg,9,12000.0,108000.0,POS
+ORD1059,2024-03-14,Musa Bello,Kano,Rice 50kg,5,78000.0,390000.0,POS
+ORD1053,2024-03-15,Kemi Adeyemi,Unknown,Beans 5kg,8,11500.0,92000.0,Cash
+ORD1074,2024-03-16,Ngozi Abubakar,Port Harcourt,Vegetable Oil 5L,3,14500.0,43500.0,Bank Transfer
+ORD1083,2024-03-18,Chidi Bello,Port Harcourt,Vegetable Oil 5L,4,14500.0,58000.0,POS
+ORD1044,2024-03-20,Fatima Adeyemi,Ibadan,Sugar 1kg,6,1800.0,10800.0,Bank Transfer
+ORD1107,2024-03-22,Tunde Balogun,Ibadan,Vegetable Oil 5L,7,14500.0,101500.0,POS
+ORD1015,2024-04-03,Blessing Okafor,Lagos,Rice 50kg,10,78000.0,780000.0,POS
+ORD1033,2024-04-03,Ngozi Eze,Port Harcourt,Sugar 1kg,1,1800.0,1800.0,Bank Transfer
+ORD1077,2024-04-06,Aisha Abubakar,Port Harcourt,Beans 5kg,3,11500.0,34500.0,Cash
+ORD1051,2024-04-07,Ngozi Lawal,Abuja,Beans 5kg,10,11500.0,115000.0,POS
+ORD1095,2024-04-10,Zainab Eze,Lagos,Indomie Carton,7,9800.0,68600.0,Bank Transfer
+ORD1093,2024-04-11,Halima Ibrahim,Ibadan,Indomie Carton,9,9800.0,88200.0,Cash
+ORD1019,2024-04-12,Blessing Adeyemi,Abuja,Sugar 1kg,9,1800.0,16200.0,Unknown
+ORD1103,2024-04-12,Zainab Okafor,Port Harcourt,Garri 10kg,7,12000.0,84000.0,Bank Transfer
+ORD1092,2024-04-14,Zainab Bello,Abuja,Garri 10kg,5,12000.0,60000.0,Cash
+ORD1094,2024-04-16,Emeka Abubakar,Kano,Indomie Carton,10,9800.0,98000.0,Bank Transfer
+ORD1072,2024-04-18,Musa Abubakar,Port Harcourt,Indomie Carton,1,9800.0,9800.0,Bank Transfer
+ORD1085,2024-04-19,Yusuf Eze,Ibadan,Indomie Carton,10,9800.0,98000.0,Cash
+ORD1102,2024-04-22,Ibrahim Eze,Port Harcourt,Indomie Carton,8,9800.0,78400.0,Bank Transfer
+ORD1110,2024-04-23,Fatima Eze,Abuja,Garri 10kg,9,12000.0,108000.0,Bank Transfer
+ORD1005,2024-04-26,Emeka Eze,Ibadan,Beans 5kg,4,11500.0,46000.0,POS
+ORD1096,2024-04-27,Emeka Balogun,Lagos,Rice 50kg,1,78000.0,78000.0,Bank Transfer
+ORD1009,2024-04-28,Segun Eze,Port Harcourt,Sugar 1kg,1,1800.0,1800.0,Unknown
+ORD1008,2024-05-01,Zainab Ibrahim,Lagos,Indomie Carton,5,9800.0,49000.0,Bank Transfer
+ORD1067,2024-05-01,Chidi Bello,Lagos,Sugar 1kg,2,1800.0,3600.0,Bank Transfer
+ORD1028,2024-05-03,Fatima Usman,Lagos,Garri 10kg,1,12000.0,12000.0,POS
+ORD1032,2024-05-04,Unknown,Abuja,Indomie Carton,7,9800.0,68600.0,Bank Transfer
+ORD1056,2024-05-04,Kemi Eze,Lagos,Sugar 1kg,8,1800.0,14400.0,Bank Transfer
+ORD1010,2024-05-07,Emeka Okonkwo,Abuja,Vegetable Oil 5L,9,14500.0,130500.0,Cash
+ORD1039,2024-05-08,Yusuf Adeyemi,Unknown,Beans 5kg,1,11500.0,11500.0,Cash
+ORD1063,2024-05-08,Ibrahim Okafor,Abuja,Rice 50kg,8,78000.0,624000.0,Bank Transfer
+ORD1073,2024-05-09,Ngozi Bello,Port Harcourt,Sugar 1kg,5,1800.0,9000.0,POS
+ORD1050,2024-05-14,Segun Usman,Ibadan,Beans 5kg,2,11500.0,23000.0,POS
+ORD1055,2024-05-14,Musa Balogun,Abuja,Vegetable Oil 5L,10,14500.0,145000.0,Bank Transfer
+ORD1065,2024-05-14,Kemi Okonkwo,Lagos,Vegetable Oil 5L,1,14500.0,14500.0,Bank Transfer
+ORD1046,2024-05-15,Tunde Adeyemi,Kano,Rice 50kg,6,78000.0,468000.0,Bank Transfer
+ORD1001,2024-05-17,Emeka Bello,Abuja,Sugar 1kg,4,1800.0,7200.0,Bank Transfer
+ORD1109,2024-05-17,Blessing Ibrahim,Ibadan,Garri 10kg,6,12000.0,72000.0,POS
+ORD1079,2024-05-18,Aisha Lawal,Lagos,Indomie Carton,6,9800.0,58800.0,Bank Transfer
+ORD1024,2024-05-20,Halima Eze,Ibadan,Garri 10kg,2,12000.0,24000.0,Cash
+ORD1020,2024-06-03,Unknown,Kano,Rice 50kg,6,78000.0,468000.0,Cash
+ORD1027,2024-06-04,Aisha Lawal,Unknown,Garri 10kg,3,12000.0,36000.0,Cash
+ORD1081,2024-06-06,Tunde Eze,Kano,Sugar 1kg,6,1800.0,10800.0,POS
+ORD1021,2024-06-08,Ngozi Eze,Port Harcourt,Vegetable Oil 5L,6,14500.0,87000.0,Cash
+ORD1042,2024-06-09,Aisha Okafor,Kano,Indomie Carton,3,9800.0,29400.0,Bank Transfer
+ORD1049,2024-06-09,Zainab Lawal,Port Harcourt,Rice 50kg,5,78000.0,390000.0,Cash
+ORD1060,2024-06-10,Uche Okonkwo,Kano,Vegetable Oil 5L,4,14500.0,58000.0,Cash
+ORD1061,2024-06-13,Halima Balogun,Port Harcourt,Beans 5kg,9,11500.0,103500.0,Bank Transfer
+ORD1069,2024-06-14,Ngozi Balogun,Unknown,Rice 50kg,9,78000.0,702000.0,Cash
+ORD1013,2024-06-16,Unknown,Kano,Garri 10kg,9,12000.0,108000.0,Bank Transfer
+ORD1062,2024-06-16,Tunde Abubakar,Kano,Indomie Carton,5,9800.0,49000.0,Bank Transfer
+ORD1026,2024-06-18,Segun Eze,Lagos,Vegetable Oil 5L,9,14500.0,130500.0,Cash
+ORD1011,2024-06-23,Tunde Okonkwo,Ibadan,Indomie Carton,2,9800.0,19600.0,POS
+ORD1017,2024-06-26,Kemi Abubakar,Kano,Rice 50kg,9,78000.0,702000.0,Bank Transfer
+ORD1105,2024-06-26,Aisha Ibrahim,Abuja,Indomie Carton,8,9800.0,78400.0,Cash
