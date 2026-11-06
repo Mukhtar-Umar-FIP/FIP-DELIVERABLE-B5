@@ -30,21 +30,21 @@ The raw file has the usual real-world problems:
 
 ## What's in the repo
 
-```
+
 FIP-DELIVERABLE-B5/
-├── data/
-│   ├── raw/sales_raw.csv            original data, never edited
-│   └── cleaned/sales_cleaned.csv    clean data made by the notebook
-├── notebook/
-│   └── data_cleaning.ipynb          all the cleaning steps
-├── docs/
-│   ├── data_dictionary.md           what each column means
-│   ├── data_profile.md              before vs after profile (made by the notebook)
-│   ├── decision_log.md              every change and why
-│   └── reproducibility_checklist.md
-├── requirements.txt
-└── README.md
-```
+data/
+raw/sales_raw.csv            original data, never edited
+cleaned/sales_cleaned.csv    clean data made by the notebook
+notebook/
+data_cleaning.ipynb          all the cleaning steps
+docs/
+data_dictionary.md           what each column means
+data_profile.md              before vs after profile (made by the notebook)
+decision_log.md              every change and why
+reproducibility_checklist.md
+requirements.txt
+README.md
+
 
 ## Setup
 
